@@ -238,7 +238,7 @@ bash: ./fichier: Permission denied
 kz@serveur:~/test$ sudo ./fichier
 Hello
 ```
-*Je ne sais pas*
+
 
 
 **• Placez-vous dans le répertoire test, et retirez-vous le droit en lecture pour ce répertoire. Listez le contenu du répertoire, puis exécutez ou aﬀichez le contenu du fichier fichier. Qu’en déduisez-vous? Rétablissez le droit en lecture sur test**
